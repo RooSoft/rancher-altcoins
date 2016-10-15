@@ -1,4 +1,4 @@
-# chef-server 12.x (standalone)
+# geocoin
 
 ### Info
 
