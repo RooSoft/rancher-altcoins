@@ -3,5 +3,5 @@ app:
   working_dir: /wallet
   command: echo testing
   volumes:
-    - /wallets/geocoin:/wallet
+    - /wallets/mazacoin:/wallet
 
