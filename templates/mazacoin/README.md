@@ -1,8 +1,8 @@
-# geocoin
+# mazacoin
 
 ### Info
 
-Deploys a geocoin wallet
+Deploys a mazacoin wallet
 
 ### Usage
 
