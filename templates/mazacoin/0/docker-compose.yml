@@ -1,4 +1,4 @@
-mazacoin:
+app:
   ports:
   - 9004:9004/tcp
   labels:
