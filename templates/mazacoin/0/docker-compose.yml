@@ -1,7 +1,7 @@
 app:
   image: roosoft/mazacoin
   working_dir: /wallet
-  command: /bin/bash
+  entrypoint: /bin/bash
   volumes:
     - /wallets/mazacoin:/wallet
 
