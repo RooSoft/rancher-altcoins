@@ -1,7 +1,2 @@
-.catalog:
-  name: mazacoin
-  version: 0.1
-  description: a mazacoin wallet
-  uuid: # Unique identifier to be used for upgrades. Please see note.
-  minimum_rancher_version: 1.0.0
-  questions: #Used to request user input for configuration options
+mazacoin:
+  scale: 1
